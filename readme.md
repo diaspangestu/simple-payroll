@@ -15,4 +15,4 @@ Untuk menjalankan aplikasi lakukan perintah berikut
 2. `go mod tudy && go mod vendor`
 3. `go run main.go`
 
-Daftar endpoint ada di postman documenter yang di sertakan
+Daftar endpoint ada di postman documenter [Klik Disini](https://documenter.getpostman.com/view/4080490/2s83Ychhk4#063f1ab2-f757-46c0-ab0c-007f63506865)
